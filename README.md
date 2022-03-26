@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, I am Olga Sorokoletova 👋
 
 <!--
 **olga-sorokoletova/olga-sorokoletova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
