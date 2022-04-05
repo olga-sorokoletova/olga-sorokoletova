@@ -17,6 +17,8 @@ I am a passionate Artificial Intelligence and Robotics engineer from Russia.
   <img align="left" alt="Olga's Telegram" width="35" src="assets/telegram.svg" />
 </a>
 
+<img align="right" alt="GIF" src="https://github.com/olga-sorokoletova/olga-sorokoletova/blob/main/code2.gif" width="400" height="300" />
+
 <!--
 **olga-sorokoletova/olga-sorokoletova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
