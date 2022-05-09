@@ -7,6 +7,9 @@ I am a passionate Artificial Intelligence and Robotics engineer from Russia.
 * Currently I am enrolled in the second year of the Master of Science in **Artificial Intelligence and Robotics** (27.8/30) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 #### You are welcomed to reach me using:
+<a href="https://www.linkedin.com/in/olga-sorokoletova-880233237/">
+  <img align="left" alt="Olga's LinkedIn" width="35" src="assets/linkedin.png" />
+</a>
 <a href="mailto:olgasorokoletova02@gmail.com">
   <img align="left" alt="Olga's Gmail" width="35" src="assets/gmail.svg" />
 </a>
