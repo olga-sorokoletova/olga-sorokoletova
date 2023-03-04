@@ -7,7 +7,7 @@ I am a passionate Artificial Intelligence and Robotics engineer from Russia curr
 * In 2023 I was awarded the degree of Master of Science in **Artificial Intelligence and Robotics** (110/110) by [La Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 <p align="center">
- <img align="right" alt="GIF" src="https://github.com/olga-sorokoletova/olga-sorokoletova/blob/main/code.gif" width="400" height="300" />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olga-sorokoletova&layout=compact"> <img align="right" alt="GIF" src="https://github.com/olga-sorokoletova/olga-sorokoletova/blob/main/code.gif" width="400" height="300" />
 </p>
 
 #### You are welcome to reach me using:
