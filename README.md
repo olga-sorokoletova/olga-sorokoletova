@@ -4,9 +4,9 @@ I am a passionate Artificial Intelligence and Robotics engineer from Russia.
 
 * In 2019 I was awarded the degree of Bachelor in the field of study **Applied Mathematics and Computer Science** (4.7/5) by [Lomonosov Moscow State University](https://www.msu.ru/en/).
 * In 2019-2020 I was employed as a **Risk Analyst** in a Portfolio Analysis Team in the Russian department of Hungarian [OTP Bank](https://www.otpbank.hu/portal/en/Retail).
-* Currently I am enrolled in the second year of the Master of Science in **Artificial Intelligence and Robotics** (27.8/30) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+* In 2023 I was awarded the degree of Master of Science in **Artificial Intelligence and Robotics** (110/110) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
-#### You are welcomed to reach me using:
+#### You are welcome to reach me using:
 <a href="https://www.linkedin.com/in/olga-sorokoletova-880233237/">
   <img align="left" alt="Olga's LinkedIn" width="35" src="assets/linkedin.png" />
 </a>
