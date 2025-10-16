@@ -1,10 +1,23 @@
-### Hi everyone, I am Olga Sorokoletova 👋
+### About Me 👋
 
-I am a passionate Artificial Intelligence and Robotics engineer from Russia currently living in Italy. 
+I am a **PhD Researcher** in **Safety Evaluation of Large Language Models (LLMs)** at the [Department of Computer, Control and Management Engineering (DIAG)](https://www.diag.uniroma1.it/en), Sapienza University of Rome.
 
-* In 2019 I was awarded the degree of Bachelor in the field of study **Applied Mathematics and Computer Science** (4.7/5) by [Lomonosov Moscow State University](https://www.msu.ru/en/).
-* In 2019-2020 I was employed as a **Risk Analyst** in a Portfolio Analysis Team in the Russian department of Hungarian [OTP Bank](https://www.otpbank.hu/portal/en/Retail).
-* In 2023 I was awarded the degree of Master of Science in **Artificial Intelligence and Robotics** (110/110) by [La Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+My research focuses on LLM safety, adversarial robustness, jailbreak detection, evaluation frameworks, and alignment.
+
+---
+
+### Acadremic Background 🎓
+- **PhD in Artificial Intelligence** *(ongoing)*. *Sapienza University of Rome · DIAG*.
+- **Research Fellow in Human-Robot Interaction using LLMs** *(2024–2025)*. *Sapienza University of Rome · DIAG*.
+- **M.Sc. in Artificial Intelligence and Robotics** *(110/110, 2023)*. *Sapienza University of Rome · DIAG*.
+- **B.Sc. in Applied Mathematics and Computer Science** *(4.7/5, 2019)*.  [Lomonosov Moscow State University](https://www.msu.ru/en/) · [Computational Mathematics and Cybernetics (CMC)](https://cs.msu.ru/en).
+
+---
+
+### Professional Experience 💼
+- **Machine Learning Engineer: Natural Language Processing (NLP) for Cybersecurity** *(2023–2024)*. [Cy4Gate](https://www.cy4gate.com/en/) · Data & AI Department · Rome.
+- **Risk Analyst** *(2019–2020)*. [OTP Bank](https://www.otpbank.hu/portal/en/Retail) · Portfolio Analysis Team · Moscow.  
+---
 
 <p align="center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olga-sorokoletova&layout=compact"> <img align="right" alt="GIF" src="https://github.com/olga-sorokoletova/olga-sorokoletova/blob/main/code.gif" width="400" height="300" />
